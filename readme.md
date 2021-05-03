@@ -1,7 +1,1 @@
-<?php 
-
-echo "Hello";
-
-
-
-?>
+Hello 
